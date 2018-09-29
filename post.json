@@ -1,4 +1,7 @@
 [
-  {"id": 1, "title": "Title 1", "img": "img/profile.png"},
-  {"id": 2, "title": "Title 2", "img": "img/profile.png"}
+  {"id": 1, "nama_masjid": "Masjid Raya", "img": "img/profile.png", "keterangan": "masjid ini masjid besar di kota parepare"},
+  {"id": 2, "nama_masjid": "Masjid Al manar", "img": "img/profile.png", "keterangan": "masjid ini masjid besar di kota parepare"},
+  {"id": 3, "nama_masjid": "Masjid Al Furqan", "img": "img/profile.png", "keterangan": "masjid ini masjid besar di kota parepare"},
+  {"id": 4, "nama_masjid": "Masjid syuhada", "img": "img/profile.png", "keterangan": "masjid ini masjid besar di kota parepare"},
+  {"id": 5, "nama_masjid": "Masjid darul ilmi", "img": "img/profile.png", "keterangan": "masjid ini masjid besar di kota parepare"}
 ]
